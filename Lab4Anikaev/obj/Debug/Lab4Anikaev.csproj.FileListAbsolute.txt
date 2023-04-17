@@ -1,0 +1,14 @@
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\bin\Debug\Lab4Anikaev.exe.config
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\bin\Debug\Lab4Anikaev.exe
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\bin\Debug\Lab4Anikaev.pdb
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.csproj.AssemblyReference.cache
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.csproj.SuggestedBindingRedirects.cache
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.Form1.resources
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.Properties.Resources.resources
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.csproj.GenerateResource.cache
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.csproj.CoreCompileInputs.cache
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.exe
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.pdb
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.Form2.resources
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.Form3.resources
+D:\HNURE\C#.Net\Lab4Anikaev\Lab4Anikaev\obj\Debug\Lab4Anikaev.Form4.resources
